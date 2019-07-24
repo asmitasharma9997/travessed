@@ -1,1 +1,21 @@
+
+
+#btn{
+  width:20%;
+  padding:30px;
+  font-size: 40px;
+  margin: 50px;
+  border-radius: 25px;
+  background-color: Transparent;
+  border-color: white;
+  border-width: 4px;
+  color:white;
+  font-weight:900;
+  letter-spacing: 3px;
+}
+
+#btn:hover{
+  background-color:white;
+  color:black;
+}
 li {list-style-type: none;}
