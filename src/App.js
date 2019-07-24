@@ -30,7 +30,7 @@ function App() {
         {/* <img src="https://littleletterslinked.com/wp-content/uploads/2019/07/0ec319c03a204b10baa583faaf1145de157d9b7c-1.jpg.webp" alt="logo" style={style1}></img>  */}
         <div class="flex-container">
         <button id="btn">Inspire Me</button>
-        <b>OR</b>
+        <div class="or"><b>OR</b></div>
         <button id="btn">Kidnap Me</button>
         </div>
       </div>
